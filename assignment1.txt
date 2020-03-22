@@ -1,0 +1,5 @@
+Oblivious Transfer (OT): is a protocol that runs on top of encryption algorithms and allows a sender to not know the
+information that a receiver has read,
+referrred to few webpages and youtube videos, the source code for the assignment was taken from 
+https://asecuritysite.com/encryption/ot
+"Oblivious transfer - A Security Site." https://asecuritysite.com/encryption/ot. Accessed 21 Mar. 2020.
